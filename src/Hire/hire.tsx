@@ -34,22 +34,22 @@ export function Hire() {
       </p>
       <div className="flex justify-center mb-10">
         <ul className="flex flex-wrap gap-9 justify-center">
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2">
             <p className="text-lg">App Design</p>
           </li>
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2">
             <p className="text-lg">Graphic Design</p>
           </li>
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2">
             <p className="text-lg">Motion Design</p>
           </li>
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2 xl:ml-12">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2 xl:ml-12">
             <p className="text-lg">UX Design</p>
           </li>
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2 xl:mr-12">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2 xl:mr-12">
             <p className="text-lg">Webdesign</p>
           </li>
-          <li className="px-2 py-3 text-center w-60 border-solid border-white border-2">
+          <li className="px-2 py-3 text-center w-60 2xl:w-72 border-solid border-white border-2">
             <p className="text-lg">Marketing</p>
           </li>
         </ul>
